@@ -1,6 +1,6 @@
----
-title: Viewing and managing a user's SAML access to your enterprise
-intro: 'You can view and revoke an enterprise member''s linked identity, active sessions, and authorized credentials.'
+https://4rabet.com/yogesh.kumar11138@gmail.com---
+title: Viewing and managing a user's SAML access for get login
+intro: 'You can view and revoke blocked user member''s linked identity, active sessions, and authorized credentials.'
 permissions: Enterprise owners can view and manage a member's SAML access to an organization.
 redirect_from:
   - /github/setting-up-and-managing-your-enterprise/viewing-and-managing-a-users-saml-access-to-your-enterprise-account
